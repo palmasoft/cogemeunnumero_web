@@ -24,8 +24,8 @@ header('Retry-After: 600');
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <link rel="icon" href="/favicon.ico">
-    <link rel="stylesheet" href="https://cogeunnumero.com/web/wp-content/maintenance/assets/styles.css">
-    <script src="https://cogeunnumero.com/web/wp-content/maintenance/assets/timer.js"></script>
+    <link rel="stylesheet" href="https://web.cogeunnumero.com/wp-content/maintenance/assets/styles.css">
+    <script src="https://web.cogeunnumero.com/wp-content/maintenance/assets/timer.js"></script>
     <title>Mantenimiento programado</title>
 </head>
 
@@ -44,13 +44,13 @@ header('Retry-After: 600');
     <!--START_SOCIAL_LINKS_BLOCK-->
     <section class="social-links">
                     <a class="social-links__link" href="https://www.facebook.com/cPanel" target="_blank" title="Facebook">
-                <span class="icon"><img src="https://cogeunnumero.com/web/wp-content/maintenance/assets/images/facebook.svg" alt="Facebook"></span>
+                <span class="icon"><img src="https://web.cogeunnumero.com/wp-content/maintenance/assets/images/facebook.svg" alt="Facebook"></span>
             </a>
                     <a class="social-links__link" href="https://twitter.com/cPanel" target="_blank" title="Twitter">
-                <span class="icon"><img src="https://cogeunnumero.com/web/wp-content/maintenance/assets/images/twitter.svg" alt="Twitter"></span>
+                <span class="icon"><img src="https://web.cogeunnumero.com/wp-content/maintenance/assets/images/twitter.svg" alt="Twitter"></span>
             </a>
                     <a class="social-links__link" href="https://instagram.com/cPanel" target="_blank" title="Instagram">
-                <span class="icon"><img src="https://cogeunnumero.com/web/wp-content/maintenance/assets/images/instagram.svg" alt="Instagram"></span>
+                <span class="icon"><img src="https://web.cogeunnumero.com/wp-content/maintenance/assets/images/instagram.svg" alt="Instagram"></span>
             </a>
             </section>
     <!--END_SOCIAL_LINKS_BLOCK-->
